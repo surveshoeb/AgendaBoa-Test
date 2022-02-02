@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "agenda_boa_test",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "iPhone 13 Pro Max (mobile)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "deviceId": "57152E76-38C0-421F-AA92-ECDCCF7AC1D6"
+        },
+        {
+            "name": "agenda_boa_test (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
